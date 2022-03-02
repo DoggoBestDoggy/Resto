@@ -15,9 +15,9 @@ return new class extends Migration
     {
         Schema::create('rest_ad_menu', function (Blueprint $table) {
             $table->id();
-            $table->name(string);
-            $table->description(string);
-            $table->price(float);
+            $table->string('name');
+            $table->string('description');
+            $table->float('price');
             $table->timestamps();
         });
     }
