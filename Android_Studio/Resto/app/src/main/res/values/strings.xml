@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Restaurant Advisor</string>
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_resto_item">Ajouter</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Les Nouveaux Resto</string>
+    <string name="fav_page_title">Mes Fav</string>
+    <string name="resto_add_page_title">Ajouter</string>
+
+    <!-- Ajout de resto -->
+    <string name="add_resto_page_title">Ajout d\'un resto</string>
+    <string name="add_resto_page_upload_button">Charger Image</string>
+    <string name="add_resto_page_name_input">@string/item_resto_name</string>
+    <string name="add_resto_page_name_description_input">@string/item_resto_description</string>
+    <string name="add_resto_page_name_emplacement">Emplacement du resto</string>
+
+    <string-array name="add_resto_page_type_input">
+        <item>Pizza</item>
+        <item>Fast Food</item>
+        <item>Tacos</item>
+        <item>Kebab</item>
+        <item>Sushi</item>
+    </string-array>
+
+    <string name="add_resto_page_confirm_button">Confirmer</string>
+
+    <!-- Popup de détail -->
+    <string name="popup_resto_name">Resto Name</string>
+    <string name="popup_resto_description_title">Description</string>
+    <string name="popup_resto_description_subtitle">Petite description</string>
+    <string name="popup_resto_type_title">Type</string>
+    <string name="popup_resto_type_subtitle">Pizza</string>
+
+    <!-- Page customiser -->
+    <string name="item_resto_name">Nom Du Resto</string>
+    <string name="item_resto_description">Description Du Resto</string>
+</resources>

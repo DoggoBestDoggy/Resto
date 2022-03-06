@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391210813248",
+    "project_id": "resto-9f24a",
+    "storage_bucket": "resto-9f24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391210813248:android:e7357e3e15d1b8a31e9ca5",
+        "android_client_info": {
+          "package_name": "fr.rigonij.resto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391210813248-i2acra9pk2vb5qlqie55tqk5v4l338um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfwEfvzhb9jpw_5WhY3Fx7Y1QwQ1hJGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391210813248-i2acra9pk2vb5qlqie55tqk5v4l338um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
