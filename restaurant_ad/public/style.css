@@ -1,0 +1,21 @@
+body{
+	background-image: url('https://i.pinimg.com/originals/b6/4f/2e/b64f2e4199456b0e30261541705ae86a.jpg');
+	background-size: cover;
+}
+h2{
+	text-align: center;
+	color: white;
+	margin: 15% 0px 0px;
+}
+fieldset{
+	background-color: grey ;
+	text-align: center;
+	width: 30%;
+	height: 40%;
+	margin: 0% 35% 0px;
+	border: 3px floralwhite solid;
+	border-radius: 10px;
+}
+legend{
+	color: white;
+}
